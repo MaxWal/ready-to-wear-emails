@@ -9,7 +9,7 @@
     #header a {color:#ffffff; font-size:12px; color:#ffffff;}
     #header td {padding: 12px 0px;}
     #header .icon {width: 275px; text-align: center;}
-    #header .icon a {display:block; text-indent: -9999px; overflow: hidden; background-image: url("logo.jpg"); width:238px; height:27px; margin:0 auto;}
+    #header .icon a {display:block; text-indent: -9999px; overflow: hidden; background-image: url("images/logo.jpg"); width:238px; height:27px; margin:0 auto;}
     #wrapper .header {display: block; margin-top: 40px; margin-left: 19px; font-size: 16px; line-height: 24px; width: 350px;}
     #wrapper .info { font-size: 12px; line-height: 20px; display: block; margin: 0 20px; margin-top: 24px; color:#666666; }
     #wrapper .info a {font-weight: 700;}
@@ -36,10 +36,10 @@
     #footer .site {font-weight: 700; width: 143px; text-align: left;}
     #footer .social {text-align: right; padding-right: 10px; width:100px;}
     #footer .social a {display:inline-block; width:19px; height:16px;}
-    #footer .social a.fb {background-image: url("fb.jpg")}
-    #footer .social a.vk {background-image: url("vk.jpg")}
-    #footer .social a.tw {background-image: url("tw.jpg")}
-    #footer .social a.ig {background-image: url("ig.jpg"); width:23px; height:16px;}
+    #footer .social a.fb {background-image: url("images/fb.jpg")}
+    #footer .social a.vk {background-image: url("images/vk.jpg")}
+    #footer .social a.tw {background-image: url("images/tw.jpg")}
+    #footer .social a.ig {background-image: url("images/ig.jpg"); width:23px; height:16px;}
 
 </style>
 <table width="600" id="wrapper" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
@@ -85,9 +85,9 @@
                     </td>
                 </tr>
                 <tr class="image">
-                    <td><img src="girl1.png"></td>
-                    <td><img src="girl2.png"></td>
-                    <td><img src="girl3.png"></td>
+                    <td><img src="images/items/girl1.png"></td>
+                    <td><img src="images/items/girl2.png"></td>
+                    <td><img src="images/items/girl3.png"></td>
                 </tr>
             </table>
             <table id="bottom_menu" width="560" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0"><tr>
