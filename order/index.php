@@ -4,7 +4,7 @@
             <table id="header" width="600" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" style="border-width:0;font-family:Arial, Helvetica, sans-serif;background-color:#000000;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;font-size:12px;" ><tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="icon" width="275" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:12px;padding-bottom:12px;padding-right:0px;padding-left:0px;width:275px;text-align:center;" >
                         <a href="//READY-TO-WEAR.RU" style="font-family:Arial, Helvetica, sans-serif;text-decoration:none;color:#ffffff;font-size:12px;" >
-                            <img src="http://ready-emails.herokuapp.com/images/logo.jpg" alt="READY-TO-WEAR.RU" style="border:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+                            <img src="http://r2w-emails.herokuapp.com/images/logo.jpg" alt="READY-TO-WEAR.RU" style="border:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
                         </a>
                     </td>
                     <td class="menu" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:12px;padding-bottom:12px;padding-right:0px;padding-left:0px;" ><a href="//ready-to-wear.ru" style="font-family:Arial, Helvetica, sans-serif;text-decoration:none;color:#ffffff;font-size:12px;" >Новинки</a></td>
@@ -31,7 +31,7 @@
                 </tr></thead>
                 <tbody style="font-family:Arial, Helvetica, sans-serif;" >
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
-                    <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://ready-emails.herokuapp.com/images/items/wear1.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
+                    <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://r2w-emails.herokuapp.com/images/items/wear1.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
                     <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666;width:170px;" >
                         <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;font-weight:700;" >Alexis Mabille</span>
                         <br style="font-family:Arial, Helvetica, sans-serif;" >
@@ -42,7 +42,7 @@
                     <td class="total" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;font-weight:700;" >21 500 p.</td>
                 </tr>
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
-                    <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://ready-emails.herokuapp.com/images/items/wear3.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
+                    <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://r2w-emails.herokuapp.com/images/items/wear3.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
                     <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666;width:170px;" >
                         <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;font-weight:700;" >Donna Karan</span>
                         <br style="font-family:Arial, Helvetica, sans-serif;" >
@@ -107,10 +107,10 @@
                     <td class="phone" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:16px;padding-bottom:16px;padding-right:0px;padding-left:0px;width:140px;text-align:left;" >+7 (495) 609-69-68</td>
                     <td class="site" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:16px;padding-bottom:16px;padding-right:0px;padding-left:0px;font-weight:700;width:143px;text-align:left;" ><a href="//ready-to-wear.ru" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;" >www.ready-to-wear.ru</a></td>
                     <td class="social" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:16px;padding-bottom:16px;padding-left:0px;text-align:right;padding-right:10px;width:100px;" >
-                        <a href="//ready-to-wear.ru" class="fb" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;width:19px;height:16px;background-image:url('http://ready-emails.herokuapp.com/images/fb.jpg');" ></a>
-                        <a href="//ready-to-wear.ru" class="vk" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;width:19px;height:16px;background-image:url('http://ready-emails.herokuapp.com/images/vk.jpg');" ></a>
-                        <a href="//ready-to-wear.ru" class="tw" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;width:19px;height:16px;background-image:url('http://ready-emails.herokuapp.com/images/tw.jpg');" ></a>
-                        <a href="//ready-to-wear.ru" class="ig" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;background-image:url('http://ready-emails.herokuapp.com/images/ig.jpg');width:23px;height:16px;" ></a>
+                        <a href="//ready-to-wear.ru" class="fb" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;width:19px;height:16px;background-image:url('http://r2w-emails.herokuapp.com/images/fb.jpg');" ></a>
+                        <a href="//ready-to-wear.ru" class="vk" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;width:19px;height:16px;background-image:url('http://r2w-emails.herokuapp.com/images/vk.jpg');" ></a>
+                        <a href="//ready-to-wear.ru" class="tw" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;width:19px;height:16px;background-image:url('http://r2w-emails.herokuapp.com/images/tw.jpg');" ></a>
+                        <a href="//ready-to-wear.ru" class="ig" style="font-family:Arial, Helvetica, sans-serif;color:#ffffff;text-decoration:none;display:inline-block;background-image:url('http://r2w-emails.herokuapp.com/images/ig.jpg');width:23px;height:16px;" ></a>
                     </td>
                 </tr></table>
         </td>
