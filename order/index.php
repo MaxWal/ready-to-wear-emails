@@ -1,7 +1,7 @@
 <table id="wrapper" width="600" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" style="border-width:0;" >
     <tr style="font-family:Arial, Helvetica, sans-serif;" >
         <td class="content_wrapper" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-            <table id="header" width="600" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" style="border-width:0;font-family:Arial, Helvetica, sans-serif;background-color:#000000;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;font-size:12px;" ><tr style="font-family:Arial, Helvetica, sans-serif;" >
+            <table id="header" width="600" align="center" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0" style="border-width:0;font-family:Arial, Helvetica, sans-serif;background-color:#000000;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;font-size:12px;" ><tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="icon" width="275" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:12px;padding-bottom:12px;padding-right:0px;padding-left:0px;width:275px;text-align:center;" >
                         <a href="//READY-TO-WEAR.RU" style="font-family:Arial, Helvetica, sans-serif;text-decoration:none;color:#ffffff;font-size:12px;" >
                             <img src="http://r2w-emails.herokuapp.com/images/logo.jpg" alt="READY-TO-WEAR.RU" style="border:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
@@ -32,8 +32,8 @@
                 <tbody style="font-family:Arial, Helvetica, sans-serif;" >
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://r2w-emails.herokuapp.com/images/items/wear1.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
-                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666;width:170px;" >
-                        <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;font-weight:700;" >Alexis Mabille</span>
+                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666666;width:170px;" >
+                        <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000000;font-weight:700;" >Alexis Mabille</span>
                         <br style="font-family:Arial, Helvetica, sans-serif;" >
                         <span class="description" style="font-family:Arial, Helvetica, sans-serif;" >Рубашка синего цвета</span>
                     </td>
@@ -43,8 +43,8 @@
                 </tr>
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://r2w-emails.herokuapp.com/images/items/wear3.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
-                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666;width:170px;" >
-                        <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;font-weight:700;" >Donna Karan</span>
+                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666666;width:170px;" >
+                        <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000000;font-weight:700;" >Donna Karan</span>
                         <br style="font-family:Arial, Helvetica, sans-serif;" >
                         <span class="description" style="font-family:Arial, Helvetica, sans-serif;" >Узкие укороченные брюки</span>
                     </td>

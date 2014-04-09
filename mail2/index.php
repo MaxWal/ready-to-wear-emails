@@ -1,7 +1,7 @@
 <table width="600" id="wrapper" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" style="border-width:0;" >
     <tr style="font-family:Arial, Helvetica, sans-serif;" >
         <td class="content_wrapper" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-            <table id="header" width="600" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" style="border-width:0;font-family:Arial, Helvetica, sans-serif;background-color:#000000;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;font-size:12px;" ><tr style="font-family:Arial, Helvetica, sans-serif;" >
+            <table id="header" width="600" align="center" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0" style="border-width:0;font-family:Arial, Helvetica, sans-serif;background-color:#000000;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;font-size:12px;" ><tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="icon" width="275" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:12px;padding-bottom:12px;padding-right:0px;padding-left:0px;width:275px;text-align:center;" >
                         <a href="//READY-TO-WEAR.RU" style="font-family:Arial, Helvetica, sans-serif;text-decoration:none;color:#ffffff;font-size:12px;" >
                             <img src="http://r2w-emails.herokuapp.com/images/logo.jpg" alt="READY-TO-WEAR.RU" style="border:0;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
@@ -25,16 +25,16 @@
 
             <table id="cart" width="560" align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0" style="border-width:0;font-family:Arial, Helvetica, sans-serif;margin-top:0px;margin-bottom:30px;margin-right:20px;margin-left:20px;font-size:13px;" >
                 <thead style="font-family:Arial, Helvetica, sans-serif;" ><tr style="font-family:Arial, Helvetica, sans-serif;" >
-                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCC;" >Товар</th>
-                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCC;" >&nbsp;</th>
-                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCC;" >Размер</th>
-                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCC;" >Цена</th>
-                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCC;" >Итого</th>
+                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCCCCC;" >Товар</th>
+                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCCCCC;" >&nbsp;</th>
+                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCCCCC;" >Размер</th>
+                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCCCCC;" >Цена</th>
+                    <th style="font-family:Arial, Helvetica, sans-serif;font-weight:400;font-style:italic;font-size:11px;text-align:left;color:#666666;padding-bottom:5px;padding-top:42px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#CCCCCC;" >Итого</th>
                 </tr></thead>
                 <tbody style="font-family:Arial, Helvetica, sans-serif;" >
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://r2w-emails.herokuapp.com/images/items/wear1.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
-                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666;width:170px;" >
+                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666666;width:170px;" >
                         <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;font-weight:700;" >Alexis Mabille</span>
                         <br style="font-family:Arial, Helvetica, sans-serif;" >
                         <span class="description" style="font-family:Arial, Helvetica, sans-serif;" >Рубашка синего цвета</span>
@@ -45,7 +45,7 @@
                 </tr>
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
                     <td class="image" style="font-family:Arial, Helvetica, sans-serif;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;width:100px;text-align:left;" ><img src="http://r2w-emails.herokuapp.com/images/items/wear2.png" style="font-family:Arial, Helvetica, sans-serif;" ></td>
-                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666;width:170px;" >
+                    <td class="info" style="font-family:Arial, Helvetica, sans-serif;padding-bottom:0;padding-right:0;padding-left:0;padding-top:17px;display:block;font-size:11px;line-height:16px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;color:#666666;width:170px;" >
                         <span class="name" style="font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;font-weight:700;" >Donna Karan</span>
                         <br style="font-family:Arial, Helvetica, sans-serif;" >
                         <span class="description" style="font-family:Arial, Helvetica, sans-serif;" >Узкие укороченные брюки</span>
@@ -58,12 +58,12 @@
             </table>
 
             <p class="btn_wrapper" style="font-family:Arial, Helvetica, sans-serif;margin-bottom:0;margin-right:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;margin-top:22px;margin-left:20px;" ><a class="btn" href="//READY-TO-WEAR.RU" style="text-decoration:none;" ><span style="font-family:Arial, Helvetica, sans-serif;text-decoration:none;display:inline-block;border-width:9px;border-style:solid;border-color:#000;background-color:#000000;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;color:#FFFFFF;padding-top:0px;padding-bottom:0px;padding-right:0;padding-left:0;text-align:center;font-size:14px;font-weight:700;">ПЕРЕЙТИ В КОРЗИНУ</span></a></p>
-            <table width="600" align="center" background="http://r2w-emails.herokuapp.com/images/big.jpg" cellpadding="0" cellspacing="0" border="0" style="border-width:0;margin-top:53px;background-image:url('http://r2w-emails.herokuapp.com/images/big.jpg');" >
+            <table width="600" height="398" align="center" background="http://r2w-emails.herokuapp.com/images/big.jpg" cellpadding="0" cellspacing="0" border="0" style="border-width:0;margin-top:53px;background-image:url('http://r2w-emails.herokuapp.com/images/big.jpg');height:398px;" >
                 <tr style="font-family:Arial, Helvetica, sans-serif;" >
-                    <td class="big_image" style="padding-top:0px;padding-bottom:0px;padding-right:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;color:#000000;">
-                        <p style="font-size:192px;line-height:192px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">&nbsp;</p>
-                        <a href="//READY-TO-WEAR.RU" style="font-size:12px;display:inline-block;border-width:1px;border-style:solid;border-color:#000;padding-top:11px;padding-bottom:11px;padding-right:0;padding-left:0;width:250px;text-align:center;margin-left:37px;font-family:Arial, Helvetica, sans-serif;color:#000000;text-decoration:none;" >ВЫБЕРИТЕ ИЗ НАШИХ НОВИНОК</a>
-                        <p style="font-size:167px;line-height:167px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">&nbsp;</p>
+                    <td width="600" height="398" class="big_image" background="http://r2w-emails.herokuapp.com/images/big.jpg" style="padding-top:0px;padding-bottom:0px;padding-right:0;padding-left:0;font-family:Arial, Helvetica, sans-serif;color:#000000;background-image:url('http://r2w-emails.herokuapp.com/images/big.jpg');height:398px;">
+                        <p style="font-size:1px;line-height:1px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:190;padding-bottom:0;padding-right:0;padding-left:0;">&nbsp;</p>
+                        <a href="//READY-TO-WEAR.RU" style="font-size:12px;display:inline-block;border-width:1px;border-style:solid;border-color:#000000;padding-top:11px;padding-bottom:11px;padding-right:0;padding-left:0;width:250px;text-align:center;margin-left:37px;font-family:Arial, Helvetica, sans-serif;color:#000000;text-decoration:none;" >ВЫБЕРИТЕ ИЗ НАШИХ НОВИНОК</a>
+                        <p style="font-size:1px;line-height:1px;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:165;padding-bottom:0;padding-right:0;padding-left:0;">&nbsp;</p>
                     </td>
                 </tr>
             </table>
